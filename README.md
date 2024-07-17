@@ -50,50 +50,57 @@ java bank.management.system.Login
 ## Usage
 
 1. **Login:**
-- Enter your card number and PIN to log in.
+   - Enter your card number and PIN to log in.
 
 2. **Main Menu:**
-- Choose from various options like Deposit, Withdrawal, Fast Cash, Balance Inquiry, Mini Statement, and PIN Change.
+   - Choose from various options like Deposit, Withdrawal, Fast Cash, Balance Inquiry, Mini Statement, and PIN Change.
 
 3. **Deposit:**
-- Enter the amount to deposit and confirm.
+   - Enter the amount to deposit and confirm.
 
 4. **Withdrawal:**
-- Enter the amount to withdraw and confirm.
+   - Enter the amount to withdraw and confirm.
 
 5. **Fast Cash:**
-- Select a predefined amount for quick withdrawal.
+   - Select a predefined amount for quick withdrawal.
 6. **Balance Inquiry:**
-- View the current balance in your account.
+   - View the current balance in your account.
 7. **Mini Statement:**
-- View the last few transactions.
+   - View the last few transactions.
 8. **PIN Change:**
-- Change your account PIN.
+   - Change your account PIN.
 ## Code Overview
 ### Main Classes
-- **Login.java:**
-- Manages user login.
-- Validates card number and PIN.
+1. **Login.java:**
+   - Manages user login.
+   - Validates card number and PIN.
 
-- **Signup.java:**
-- Handles new user registration.
-- **Deposit.java:**
-- Allows users to deposit money into their account.
-- **Withdrawl.java:**
-- Facilitates money withdrawal from the user's account.
-- **FastCash.java:**
- - Provides options for quick cash withdrawal.
-- **BalanceEnquiry.java:**
- - Displays the user's current account balance.
- - **Mini.java:**
-- Shows a mini statement with recent transactions.
-- **Pin.java:**
-- Allows users to change their PIN.
+2. **Signup.java:**
+   - Handles new user registration.
+  
+3. **Deposit.java:**
+   - Allows users to deposit money into their account.
+  
+4. **Withdrawl.java:**
+   - Facilitates money withdrawal from the user's account.
+  
+5. **FastCash.java:**
+   - Provides options for quick cash withdrawal.
+   
+6. **BalanceEnquiry.java:**
+   - Displays the user's current account balance.
+   
+ 7. **Mini.java:**
+    - Shows a mini statement with recent transactions.
+  
+8. **Pin.java:**
+   - Allows users to change their PIN.
+  
 ### Database Connection
-- **con.java:**
-- Manages the connection to the MySQL database using JDBC.
+  - **con.java:**
+  - Manages the connection to the MySQL database using JDBC.
 ### Data Structures
-- The project primarily uses standard Java collections like `ArrayList` for handling transaction data and `ResultSet` for interacting with the database.
+  - The project primarily uses standard Java collections like `ArrayList` for handling transaction data and `ResultSet` for interacting with the database.
 
 ## Screenshots
 ### Signin Signup Page
