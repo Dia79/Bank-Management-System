@@ -4,7 +4,7 @@ This project is a comprehensive Java-based Bank Management System that allows us
 
 ## Table of Contents
 
-- [Features](##Features)
+- [Features](#features)
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
@@ -105,51 +105,51 @@ java bank.management.system.Login
 ## Screenshots
 ### Signin Signup Page
 
-<img src="Screenshot/Login.png" alt="Login.jpg" width="600" height="350" >
+<img src="Screenshots/Signin_Signup_page.png" alt="Login.jpg" width="600" height="350" >
 
 ### Signup Form1
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="540" >
+<img src="Screenshots/Signup_form1.png" alt="signup_form1.png" width="600" height="540" >
 
 ### Signup Form2
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="540" >
+<img src="Screenshots/Signup_form2.png" alt="signup_form1.png" width="600" height="540" >
 
 ### Signup Form3
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="540" >
+<img src="Screenshots/Signup_form3.png" alt="signup_form1.png" width="600" height="540" >
 
 ### New Card No.
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="400" >
+<img src="Screenshots/NewCardNo.png" alt="signup_form1.png" width="400" height="200" >
 
 ### Transaction Screen
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="400" >
+<img src="Screenshots/Transaction_Screen.png" alt="signup_form1.png" width="600" height="400" >
 
 ### Cash Deposit
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="400" >
+<img src="Screenshots/Cash_Deposit.png" alt="signup_form1.png" width="600" height="400" >
 
 ### Cash Withdrawal
 
-<img src="Screenshot/mini_statement.png" alt="mini.png" width="600" height="400" >
+<img src="Screenshots/Cash_Withdrawal.png" alt="mini.png" width="600" height="400" >
 
 ### Fast Cash Withdrawal
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="400" >
+<img src="Screenshots/Fast_cash_Withdrawal.png" alt="signup_form1.png" width="600" height="400" >
 
 ### Change PIN
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="400" >
+<img src="Screenshots/Change_Pin.png" alt="signup_form1.png" width="600" height="400" >
 
 ### Balance Enquiry
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="400" >
+<img src="Screenshots/Balance_Enquiry.png" alt="signup_form1.png" width="600" height="400" >
 
 ### Mini Statement
 
-<img src="Screenshot/signup_form1.png" alt="signup_form1.png" width="600" height="400" >
+<img src="Screenshots/Mini_Statement.png" alt="signup_form1.png" width="400" height="600" >
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
